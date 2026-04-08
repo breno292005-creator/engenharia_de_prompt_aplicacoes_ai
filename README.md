@@ -1,4 +1,10 @@
-# engenharia_de_prompt_aplicacoes_AI
-Atividades da faculdade
+📌 O que é Engenharia de Prompt?
+A Engenharia de Prompt é a arte e a ciência de comunicar-se eficientemente com IAs generativas (como GPT-4, Claude e Gemini). Não se trata apenas de "fazer perguntas", mas de estruturar contextos que minimizem alucinações e maximizem a precisão técnica.
+Aplicações Práticas
+Automação de fluxos de trabalho.
 
-Esta disciplina tem como objetivo apresentar os conceitos fundamentais sobre sistemas de informação, sua importância nas organizações e como eles apoiam processos de negócio, tomada de decisão e inovação tecnológica. Você irá compreender como a tecnologia da informação pode ser utilizada estrategicamente para agregar valor às empresas e à sociedade.
+Geração de código e depuração.
+
+Análise de sentimentos e sumarização de dados.
+
+Criação de agentes autônomos e chatbots personalizados.
